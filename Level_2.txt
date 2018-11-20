@@ -1,0 +1,5 @@
+Welcome to level 2!
+In this level, try evading the enemy as long as possible before your score falls to zero.
+The moment your score falls to zero, you die and it is game over!
+Please select your desired difficulty : 
+'1. Easy   2. Medium    3. Hard
