@@ -1,4 +1,4 @@
-# 2D-game-python
+# Esacapido- A 2D python game
 A 2D game created using arcade library of python.
 
 To run:
