@@ -5,7 +5,8 @@ To run:
 
   1. Install the arcade liibrary on windows using command prompt:
   
-      '''
+      ```
         pip install arcade
-      '''
+      ```
+  
   2. Run Level_2.py file in the repository.
