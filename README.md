@@ -9,4 +9,4 @@ To run:
         pip install arcade
       ```
   
-  2. Run Level_2.py file in the repository.
+  2. Run Level_1.py file in the repository.
